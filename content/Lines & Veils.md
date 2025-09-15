@@ -1,0 +1,29 @@
+# Lines
+- Explicit
+- Transphobia
+- 
+# Veils
+- Bugs
+- Harm to Animals
+- Harm to Children
+- Spiders
+- Romance
+- Romance
+- Abuse
+- Homophobia
+- Real-World Religion
+- Sexism
+- Specific Cultural Issues
+- Cancer
+- Claustrophobia
+- Freezing to death
+- Genocide
+- Heatstroke
+- Paralysis / physical restraint
+- Pregnancy, miscarriage, abortion
+- Self-Harm
+- Sexual Assault
+- Starvation
+- Torture
+- Thirst
+- 

@@ -1,0 +1,1 @@
+Natural Resource, Gem, Magical, Fuel

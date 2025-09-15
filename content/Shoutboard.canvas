@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"24f69af31ab3c47e","type":"text","text":"# Evocative Names\n- Nevalonia\n- Delgara\n- Eteria\n- Chord\n- Savin\n- Tyrullus\n- Dagoll\n- Morel\n- Ennd\n- Erriand\n- Coran\n- Runebrook\n- Amberlint\n- Duskaria\n- Starhaven\n- Sariphel\n- Osark\n- Lahaden\n- Aldornia\n- Auronvale\n- Lucinia\n- Percivalaria\n- Genevieve\n- Xaphagog","x":-120,"y":-260,"width":180,"height":920},
+		{"id":"0daa8a3bfbdb114b","x":440,"y":-700,"width":475,"height":420,"type":"text","text":"# [[The Everwardens of Valehaven]]\n\n- "},
+		{"id":"59efbac814c1b792","type":"text","text":"# Everwardens\n- Everwardens\n- Verdant Alliance\n- Laserian Knights","x":120,"y":-650,"width":220,"height":160},
+		{"id":"3a14510ab1255ebd","x":230,"y":126,"width":261,"height":220,"type":"text","text":"# Valehaven\n- Untamed Wilderness \n- Megafauna\n- Fey bullshit"},
+		{"id":"eeed088b43eed920","type":"text","text":"# Purpose / Role\n- Maintain the balance of nature in [[Valehaven]]\n- Protect rare fauna from poachers \n- Maintain borders\n- Appease incurring fey\n\t- Uphold some secret deal\n\t- Perform some ritual on a time crunch\n\t- \n- Assist [[Iulia]]'s expansion through recommending methods / locations for ecologically-minded expansion\n- ","x":738,"y":-140,"width":355,"height":532}
+	],
+	"edges":[
+		{"id":"4941d98fdcb5ed4d","fromNode":"0daa8a3bfbdb114b","fromSide":"bottom","toNode":"eeed088b43eed920","toSide":"top"},
+		{"id":"23ebe54a78115ebf","fromNode":"eeed088b43eed920","fromSide":"left","toNode":"3a14510ab1255ebd","toSide":"right"},
+		{"id":"4570267fcbb7cd88","fromNode":"0daa8a3bfbdb114b","fromSide":"bottom","toNode":"3a14510ab1255ebd","toSide":"right"},
+		{"id":"14832eee2da4987e","fromNode":"0daa8a3bfbdb114b","fromSide":"left","toNode":"3a14510ab1255ebd","toSide":"top"}
+	]
+}
