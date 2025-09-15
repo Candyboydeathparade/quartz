@@ -1,8 +1,11 @@
 Continent
 
 **Titles** The Cradle of Civilization, The Crown of the World, The Crown,  Land of the Last Men, The Land of Plenty
+
 **Nation** [[Iulia]] 
+
 **Capital** [[Iulia]]
+
 **Demonnym** Iulians, Tyrkysians, Savingradi(formerly)
 
 ---
