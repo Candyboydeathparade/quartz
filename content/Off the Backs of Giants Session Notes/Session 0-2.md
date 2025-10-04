@@ -1,0 +1,3 @@
+- Potentially working as a small, investigative group
+- Infiltrate the city that originally colonized [[Tyrkysia]]
+	- Possible arc of recruiting political dissidents
