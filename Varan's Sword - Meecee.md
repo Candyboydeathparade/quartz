@@ -1,0 +1,12 @@
+- Maybe the sword's old language and lizardfolk hold common roots
+- Sword is opportunistic, actively looking for a better host
+- Sword created during the second [[The Swidden|Swidden]]
+- Maybe the society around it created "black boxes" of how to fight [[Carshibaal]]
+- Sword wants to know how the fight actually went between the two
+- Is specifically a commander's sword
+- Not benevolent
+- Powerful magical artefact
+- Wants to fight [[Isadora Notes]], probably
+- Opportunistic and adversarial
+- May want information on [[Isadora Notes]]'s artefact
+- 

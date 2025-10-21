@@ -14,15 +14,6 @@ Session Notes
 - Misguided evil acts
 - Politics
 - Magical girl society attempts to save the world from [[Carshibaal|the apocalypse]]
-## Tone
-- Yeens
-- [[Yngvar|Political / economic divides / drama]]
-- Fantasy tropes
-- [[Iulia|Modern fantasy?]]
-- [[Valehaven|Megafauna]]
-	- Magical
-	- Benevolent
-- [[Carshibaal|Dragon apocalypse death cult]]
 ## Lesley
 - High Fantasy
 - Wacky, weird
